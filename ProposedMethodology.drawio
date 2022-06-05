@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T17:04:48.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="19.0.0" etag="MB3z1f6z2BzTF7KYo4Vr" type="github"><diagram id="sJ6YFkd00QocWTjXSYnb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-05T17:08:51.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="LekqLZ97IFQEom9eXls3" version="19.0.0" type="github">
+  <diagram id="sJ6YFkd00QocWTjXSYnb" name="Page-1">
+    <mxGraphModel dx="946" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xPv7CefRMFRC20usPT4X-1" value="Evaluation: Accuracy, Sensitivity, Specificity, F1-Score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="332" width="184" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="xPv7CefRMFRC20usPT4X-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="xPv7CefRMFRC20usPT4X-4" target="xPv7CefRMFRC20usPT4X-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPv7CefRMFRC20usPT4X-4" value="Architecture: RNN, CNN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="190" width="184" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="xPv7CefRMFRC20usPT4X-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="xPv7CefRMFRC20usPT4X-5" target="xPv7CefRMFRC20usPT4X-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPv7CefRMFRC20usPT4X-5" value="Dataset:&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;EMOTHAW (Emotion recognition from Handwriting and drawing)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="44" width="184" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
