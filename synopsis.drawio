@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T23:12:21.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aq9oPu54iLVBT5eowliL" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T15:48:34.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="n7gZTtw6woXhEPfCtQ97" version="21.0.2" type="github">
   <diagram id="KdkBPKrEq4bngwRAP6pD" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,13 +122,13 @@
         <mxCell id="6DetATG0JLhXx_KVdzPv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DetATG0JLhXx_KVdzPv-11" target="6DetATG0JLhXx_KVdzPv-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DetATG0JLhXx_KVdzPv-11" value="Renewing Optimal Values (Hunger)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6DetATG0JLhXx_KVdzPv-11" value="Renewing Optimal Values" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="1536" width="167" height="31" as="geometry" />
         </mxCell>
         <mxCell id="6DetATG0JLhXx_KVdzPv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DetATG0JLhXx_KVdzPv-12" target="6DetATG0JLhXx_KVdzPv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DetATG0JLhXx_KVdzPv-12" value="Calculate Optimal Values (Hungry)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6DetATG0JLhXx_KVdzPv-12" value="Calculate Optimal Values" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="1453" width="167" height="31" as="geometry" />
         </mxCell>
         <mxCell id="6DetATG0JLhXx_KVdzPv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DetATG0JLhXx_KVdzPv-13" target="6DetATG0JLhXx_KVdzPv-12" edge="1">
@@ -140,13 +140,13 @@
         <mxCell id="6DetATG0JLhXx_KVdzPv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DetATG0JLhXx_KVdzPv-14" target="6DetATG0JLhXx_KVdzPv-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DetATG0JLhXx_KVdzPv-14" value="Initialise HGS Parameters" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6DetATG0JLhXx_KVdzPv-14" value="Initialise Parameters" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="136" y="1299" width="167" height="31" as="geometry" />
         </mxCell>
         <mxCell id="6DetATG0JLhXx_KVdzPv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6DetATG0JLhXx_KVdzPv-15" target="6DetATG0JLhXx_KVdzPv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e-Th2vYjj82iViit0ePh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6DetATG0JLhXx_KVdzPv-15" target="6DetATG0JLhXx_KVdzPv-13">
+        <mxCell id="e-Th2vYjj82iViit0ePh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="6DetATG0JLhXx_KVdzPv-15" target="6DetATG0JLhXx_KVdzPv-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="116" y="1784" />
@@ -157,10 +157,10 @@
         <mxCell id="6DetATG0JLhXx_KVdzPv-15" value="Termination Criteria?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146.5" y="1710" width="146" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="e-Th2vYjj82iViit0ePh-3" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e-Th2vYjj82iViit0ePh-3" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="291" y="1761" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="e-Th2vYjj82iViit0ePh-4" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e-Th2vYjj82iViit0ePh-4" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="114" y="1763" width="36" height="26" as="geometry" />
         </mxCell>
       </root>
