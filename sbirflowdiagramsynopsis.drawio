@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T23:45:06.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.4" etag="KF9zno8k4ikFk_LBitw9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T00:31:52.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="x3saTiaRrH2FZXL-t-mJ" version="21.7.4" type="github">
   <diagram name="Page-1" id="8-B6SsMNKc747seWcMv_">
-    <mxGraphModel>
+    <mxGraphModel dx="795" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B48fcST1Bn_uZS4nlniO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-7" target="B48fcST1Bn_uZS4nlniO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-7" value="Pre-processing of input sketch photo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="90" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=-0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-8" target="B48fcST1Bn_uZS4nlniO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-8" value="convert sketch photo to edge map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="158" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-9" target="B48fcST1Bn_uZS4nlniO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-9" value="train a temporal prediction model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="226" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-10" target="B48fcST1Bn_uZS4nlniO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-10" value="predict temporal order of edge map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="377" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-11" target="B48fcST1Bn_uZS4nlniO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-11" value="use encoder-decoder architecture for sketch based image retrieval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="452" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-12" value="output image evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="530" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B48fcST1Bn_uZS4nlniO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="301.5" y="372.83333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-13" value="identify edge map characteristics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="299" width="217" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
