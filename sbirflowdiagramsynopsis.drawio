@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T00:31:52.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="x3saTiaRrH2FZXL-t-mJ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T11:04:25.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cmAruNe4g1dR8CbVuwwJ" version="21.7.4" type="github">
   <diagram name="Page-1" id="8-B6SsMNKc747seWcMv_">
-    <mxGraphModel dx="795" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="489" dy="313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,42 @@
         </mxCell>
         <mxCell id="B48fcST1Bn_uZS4nlniO-13" value="identify edge map characteristics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="193" y="299" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="500" width="182" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/image-upload-128.png" vertex="1" parent="1">
+          <mxGeometry x="1080" y="243" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/picture-128.png" vertex="1" parent="1">
+          <mxGeometry x="1193" y="236" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-27" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2_image_builder;" vertex="1" parent="1">
+          <mxGeometry x="1132" y="244" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1293" y="69" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-29" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="353" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-31" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="256" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-32" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="256" width="6" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-34" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Up_128x128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="282" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-39" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Up_128x128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="339" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-40" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Up_128x128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1143" y="360" width="20" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="B48fcST1Bn_uZS4nlniO-41" value="" style="image;html=1;image=img/lib/clip_art/finance/Arrow_Up_128x128.png;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="452" width="20" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
